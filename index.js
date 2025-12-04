@@ -1,12 +1,3 @@
-function sayHello(name) {
-  const message = 'Hello, ' + name;
-  console.log(message);
-  
-  if (name === 'World') {
-    console.log('Welcome!');
-  // MISSING: }
-  
-  return message;
+if (true) {
+  console.log('Welcome!');
 }
-
-sayHello('World');
