@@ -5,6 +5,7 @@ function sayHello(name) {
   if (name === 'World') {
     console.log('Welcome!');
   // MISSING: }
+  }
   
   return message;
 }
